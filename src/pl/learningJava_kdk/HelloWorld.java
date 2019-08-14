@@ -8,7 +8,7 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		UserData user = new UserData();
 		user.setName("majkel");
-		user.setAge(36);
+		user.setAge(user.enterAge());
 		System.out.println(user.getName());
 		System.out.println(user.getAge());
 		System.out.println(user.getActualDate());
