@@ -2,5 +2,12 @@
 
 ## Learning JAVA
 
+# Used functionality
+* Iteraction with Scanner class
+* Date tie formatting
+* Type convertion
+* Exceptions
+* Regular expressions - still working on it :]
+
 Learning from:
 https://kobietydokodu.pl/kurs-javy/
