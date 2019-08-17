@@ -7,7 +7,8 @@
 * Date tie formatting
 * Type convertion
 * Exceptions
-* Regular expressions - still working on it :]
+* Regular expressions with Pattern Matcher
+
 
 Learning from:
 https://kobietydokodu.pl/kurs-javy/
